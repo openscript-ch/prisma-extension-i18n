@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "Prisma extension for handling dynamic translations in the database.",
   "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
   },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/openscript-ch/prisma-extension-i18n.git"
