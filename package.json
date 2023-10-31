@@ -1,0 +1,19 @@
+{
+  "name": "prisma-extension-i18n",
+  "version": "1.0.0",
+  "description": "Prisma extension for handling dynamic translations in the database.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openscript-ch/prisma-extension-i18n.git"
+  },
+  "author": "openscript GmbH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openscript-ch/prisma-extension-i18n/issues"
+  },
+  "homepage": "https://github.com/openscript-ch/prisma-extension-i18n#readme"
+}
